@@ -1,0 +1,23 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Build directories
+build/
+bin/
+
+# macOS
+.DS_Store
+
+# Compiled outputs without extension (common for competitive programming)
+a_team
+a_watermelon
+a_way_too_long_words
+
+# Single-letter executables (Codeforces problem names: a, b, c, d, e, f, g)
+[a-g]
+*/[a-g]
